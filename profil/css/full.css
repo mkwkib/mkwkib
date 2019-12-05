@@ -1,0 +1,39 @@
+*{
+    font-family: 'Lucida Sans';
+        
+}
+a{
+    color: #f48500;
+}
+#logo{
+    width: 120px;
+	height: 80px;
+}
+#foto{    
+    width: 200px;
+	height: 300px;
+    display: inline-block;
+    margin-left: 250px; 
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+.logout{
+    margin-left: 1000px;
+}
+.data{
+    width: 50%;
+    margin-left: 500px;
+    border: 2px solid #f48500;
+    margin-left: 350px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h2{
+    margin-left: 200px;
+    margin-top: 10px;
+    width: 50%;
+    font-size: 25px;
+}
+table{
+    margin-left: 180px;
+}

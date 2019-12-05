@@ -1,0 +1,40 @@
+*{
+        font-family: 'Lucida Sans';
+        
+}
+form{
+        margin: auto;
+        margin-top: 50px;
+        width: 50%;
+        border: 3px solid #f48500;
+        padding: 10px;
+}
+input{
+        margin: auto;
+        margin-left: 20px;
+        margin-top: 10px;
+        width: 70%;
+        padding: 10px;     
+        text-align: center;
+}
+div{
+        margin: auto;
+        margin-bottom: 15px;
+        width: 30%;
+}
+h1{
+        margin-left: 50px;
+        font-size: 15px;
+}
+#name{
+        margin-left: 10px;
+}
+#pass{
+        margin-left: 12px;
+}
+#logo{
+        margin-left: 180px;
+        margin-bottom: 20px;
+        width: 200px;
+        height: 80px;
+}

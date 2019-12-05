@@ -1,0 +1,51 @@
+*{
+    font-family: 'Lucida Sans';
+        
+}
+a{
+    color: #f48500;
+}
+#logo{
+    width: 120px;
+	height: 80px;
+}
+#foto{    
+    width: 160px;
+	height: 250px;
+    display: inline-block;
+    margin-left: 450px;
+    margin-top: -10px;
+    margin-bottom: 18px;
+}
+.logout{
+    margin-left: 1000px;
+}
+.data{
+    width: 50%;
+    margin-left: 500px;
+}
+.profil{
+    margin: auto;
+    margin-top: 50px;
+    width: 50%;
+}
+.data{
+    border: 2px solid #f48500;
+    margin-left: 350px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h2{
+    margin-left: 250px;
+    margin-top: 10px;
+    width: 50%;
+    font-size: 25px;
+}
+table{
+    margin-top:-270px;
+    margin-left: 60px;
+}
+td{
+    font-size: 18px;
+    font-weight: bold;
+}
