@@ -2,6 +2,9 @@
 $conn = mysqli_connect('localhost','root','','profil');
 
 if (!$conn){
-    die("Error 404 Not Found"  . mysqli_connect_error());
- }
+    die("Connection Failed: "  . mysqli_connect_error());
+}
+else {
+    ("tesssss");
+}
 ?>
