@@ -3,12 +3,11 @@ session_start();
 
 include 'koneksi.php';
 
-    $username=$_POST['username'];
-    $password=$_POST['password'];
+    $username = $_POST['username'];
+    $password = $_POST['password'];
 
-    $query="select * from user where username='$username' and password='$password'";
-    $con=mysqli_connect('localhost','root','','profil');
-    $run=mysqli_query($con,$query);
+    $query = "SELECT * FROM user WHERE username='$username' AND password='$password'";
+    $run   =  mysqli_query($con,$query);
 
     if(mysqli_num_rows($run)>0) {
         echo "<script> alert ('Login Berhasil')
