@@ -17,7 +17,7 @@
    <a href="logout.php" class="logout">Logout</a>
    </div>
    <div class="data">
-   <h2>MISHBACHUL KAWAKIB</h2> 
+   <h2>MISHBACHUL KAWAKIB.M.M</h2> 
    <form action="checklogin.php" method="post">
    <img src="foto.jpg" id="foto"> </img>
    <table border=0 width=500>
